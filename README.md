@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently a Master Student in Cyber Security and Digital Forensic
-
+- 🌱 I’m currently a Master Student in Cyber Security and Digital Forensic
+- 🔭 I’m currently learning on Blockchain Security
+- 👯 Interest in Cryptography, IoT, Forensic Tools
+  
 ### Language Skill
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
