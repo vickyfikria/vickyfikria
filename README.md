@@ -27,16 +27,24 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![image](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![image](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
+- 🔭 VAPT Web apps at Ministry of Rural Affairs (2024) 
+- 🔭 VAPT Android Apps Kelola Karyawan apk
+  
 ### Framework
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+- 🔭 LIVE https://play.google.com/store/apps/details?id=com.fairflexx.capture2
+- 🔭 LIVE https://play.google.com/store/apps/details?id=com.fairflexx.fotoscan2
+
 
 ### Certified Skill
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- 🔭 216 hours Tensorflow Machine Learning - Digitalent Program in Ministry Informatics 
 
 ### Workplace
 ![image](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+- 📫 [Reach my upwork profile](https://www.upwork.com/freelancers/~0162bcc4a15a588042)
+
 
 ### Experience in tools
 ![image](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
