@@ -32,12 +32,10 @@ Here are some ideas to get you started:
 - 🔭 VAPT Web apps at Ministry of Rural Affairs (2024) 
 - 🔭 VAPT Android Apps Kelola Karyawan apk
   
-### Framework
-![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![image](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-- 🔭 LIVE https://play.google.com/store/apps/details?id=com.fairflexx.capture2
-- 🔭 LIVE https://play.google.com/store/apps/details?id=com.fairflexx.fotoscan2
-
+### Experienced in Framework
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) MAUI Android iOS
+- 🔭 LIVE in Playstore : [FairFlexx Capture](https://play.google.com/store/apps/details?id=com.fairflexx.capture2)
+- 🔭 LIVE in Playstore : [FairFlexx Capture](https://play.google.com/store/apps/details?id=com.fairflexx.fotoscan2)
 
 ### Certified Skill
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
