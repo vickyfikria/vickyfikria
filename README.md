@@ -21,21 +21,20 @@ Here are some ideas to get you started:
 - 🔭 Currently learning on Blockchain Security
 - 👯 Interest in Cryptography, IoT, Forensic Tools
   
-### Language Skill ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+#### Language Skill ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 - [Python for Image Processing]
 - [Yolo for Sign Detection, Road Analysis in California](https://github.com/labdevsrc/lane_distance_calc)
 - [Conversion Py2 to Py3](ledbox_phy3)
-- [Python EDA](https://www.kaggle.com/code/azukuchanz/cyber-attack-monthly-weekday-a-year-heatmap)\
+- [Python EDA](https://www.kaggle.com/code/azukuchanz/cyber-attack-monthly-weekday-a-year-heatmap)
 
 
-### Security Tools
-![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+#### Security Tools ![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![image](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![image](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 - 🔭 VAPT Web apps at Ministry of Rural Affairs (2024) 
 - 🔭 VAPT Android Apps Kelola Karyawan apk
   
-### Experienced in Framework
+#### Experienced in Framework
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) MAUI Android iOS
 - 🔭 LIVE in Playstore : [FairFlexx Capture](https://play.google.com/store/apps/details?id=com.fairflexx.capture2)
 - 🔭 LIVE in Playstore : [FairFlexx Capture](https://play.google.com/store/apps/details?id=com.fairflexx.fotoscan2)
