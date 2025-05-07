@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently a Master Student in Cyber Security and Digital Forensic
-- 🔭 I’m currently learning on Blockchain Security
+- 🌱 Master Student in Cyber Security and Digital Forensic
+- ⚡ Bachelor in Electrical Engineering : IoT, Hardware prototyping, Raspberry Pi 
+- ⚡ Like to integrate Android and embedded system
+- 🔭 Currently learning on Blockchain Security
 - 👯 Interest in Cryptography, IoT, Forensic Tools
   
 ### Language Skill
@@ -39,7 +41,8 @@ Here are some ideas to get you started:
 
 ### Certified Skill
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- 🔭 216 hours Tensorflow Machine Learning - Digitalent Program in Ministry Informatics 
+- 🔭 216 hours Tensorflow Machine Learning - Digitalent Program in Ministry Informatics
+- 🔭 [Certified Ethical Hacker](https://coursera.org/share/2e6d835a2cb949f7feed99a953fb8a39)
 
 ### Workplace
 ![image](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
@@ -47,7 +50,7 @@ Here are some ideas to get you started:
 
 
 ### Experience in tools
-![image](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![image](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white) 
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
