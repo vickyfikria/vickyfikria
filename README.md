@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - [Python for Image Processing]
 - [Yolo for Sign Detection, Road Analysis in California](https://github.com/labdevsrc/lane_distance_calc)
 - [Conversion Py2 to Py3](ledbox_phy3)
-- [Forensic Analysis in Kaggle](https://www.kaggle.com/code/azukuchanz/cyber-attack-monthly-weekday-a-year-heatmap)
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)\
+- [Python EDA](https://www.kaggle.com/code/azukuchanz/cyber-attack-monthly-weekday-a-year-heatmap)\
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Security Tools
 ![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
