@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 - 🔭 Currently learning on Blockchain Security
 - 👯 Interest in Cryptography, IoT, Forensic Tools
   
-### Language Skill
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### Language Skill ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 - [Python for Image Processing]
 - [Yolo for Sign Detection, Road Analysis in California](https://github.com/labdevsrc/lane_distance_calc)
 - [Conversion Py2 to Py3](ledbox_phy3)
 - [Python EDA](https://www.kaggle.com/code/azukuchanz/cyber-attack-monthly-weekday-a-year-heatmap)\
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
 
 ### Security Tools
 ![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
