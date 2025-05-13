@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 - 🔭 VAPT Android Apps Kelola Karyawan apk
   
 ### Experienced in Framework
-![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) MAUI Android iOS
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) MAUI 8 Android iOS
 - 🔭 LIVE in Playstore : [FairFlexx Capture](https://play.google.com/store/apps/details?id=com.fairflexx.capture2)
-- 🔭 LIVE in Playstore : [FairFlexx Capture](https://play.google.com/store/apps/details?id=com.fairflexx.fotoscan2)
+- 🔭 LIVE in Playstore : [FairFlexx FotoScan](https://play.google.com/store/apps/details?id=com.fairflexx.fotoscan2)
 
 ### Certified Skill
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
