@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Master Student in Cyber Security and Digital Forensic
-- ⚡ Bachelor in Electrical Engineering : IoT, Hardware prototyping, Raspberry Pi 
+- ⚡ Bachelor in Electrical Engineering
+- ⚡ Senior Developer Cross Platform Android
+- ⚡ Experience in projects IoT, ESP,  Arduino, Hardware prototyping, Raspberry Pi : [IoT project](/iotproject)
 - ⚡ Like to integrate Android and embedded system
 - 🔭 Currently learning on Blockchain Security
-- 👯 Interest in Cryptography, IoT, Forensic Tools
+- 👯 Interest in development of Forensic and Security Hardware tools
   
 ### Language Skill 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
