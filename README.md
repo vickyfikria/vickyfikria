@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Master Student in Cyber Security and Digital Forensic
+- 🌱 Master degree in Cyber Security and Digital Forensic
 - ⚡ Bachelor in Electrical Engineering
-- ⚡ Senior Developer Cross Platform Android
-- ⚡ Experience in projects IoT, ESP,  Arduino, Hardware prototyping, Raspberry Pi : [IoT project](/iotproject)
-- ⚡ Like to integrate Android and embedded system
+- ⚡ 8 years experience in Mobile Apps Development
+- ⚡ 6 Experience in projects IoT, ESP,  Arduino, Hardware prototyping, Raspberry Pi : [IoT project](/iotproject)
+- ⚡ Integrate Android to embedded system is my daily life
 - 🔭 Currently learning on Blockchain Security
 - 👯 Interest in development of Forensic and Security Hardware tools
   
