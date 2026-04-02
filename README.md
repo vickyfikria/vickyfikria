@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Implementation Experience 
-- [Migration Xamarin.Forms to .NET MAUI iOS] (https://github.com/vickyfikria/ffcapture_xamarin_ios)
+
 - [Python in Jetson Nano for Face Recognition] (jetson_nano)
 - [MaskRCNN for UAV map-building in California](https://github.com/labdevsrc/lane_distance_calc)
 - [Conversion Py2 to Py3](ledbox_phy3)
@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 - 🔭 VAPT Android Apps Kelola Karyawan apk
   
 ### Experienced in Framework
-![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) MAUI 8 Android iOS
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) MAUI 10 Android iOS
+- [Migration Xamarin.Forms to .NET 10 MAUI Android iOS] (https://github.com/vickyfikria/ffcapture_xamarin_ios)
 - 🔭 LIVE in Playstore : [FairFlexx Capture](https://play.google.com/store/apps/details?id=com.fairflexx.capture2)
 - 🔭 LIVE in Playstore : [FairFlexx FotoScan](https://play.google.com/store/apps/details?id=com.fairflexx.fotoscan2)
 
