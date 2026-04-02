@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 - 🌱 Master degree in Cyber Security and Digital Forensic
 - ⚡ Bachelor in Electrical Engineering
-- ⚡ 8 years experience in Mobile Apps Development
+- ⚡ 20 years experience in C/C++
+- ⚡ 8 years experience in Native Java Android Apps Development
+- ⚡ 3 years experience in iOS .NET MAUI Apps Development
 - ⚡ 6 Experience in projects IoT, ESP,  Arduino, Hardware prototyping, Raspberry Pi : [IoT project](/iotproject)
 - ⚡ Integrate Android to embedded system is my daily life
 - 🔭 Currently learning on Blockchain Security
@@ -26,8 +28,11 @@ Here are some ideas to get you started:
 ### Language Skill 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Implementation Experience 
+- [Migration Xamarin.Forms to .NET MAUI iOS] (https://github.com/vickyfikria/ffcapture_xamarin_ios)
 - [Python in Jetson Nano for Face Recognition] (jetson_nano)
-- [Yolo for Sign Detection, Road Analysis in California](https://github.com/labdevsrc/lane_distance_calc)
+- [MaskRCNN for UAV map-building in California](https://github.com/labdevsrc/lane_distance_calc)
 - [Conversion Py2 to Py3](ledbox_phy3)
 - [Python EDA](https://www.kaggle.com/code/azukuchanz/cyber-attack-monthly-weekday-a-year-heatmap)
 
