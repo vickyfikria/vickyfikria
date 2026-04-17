@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Bachelor in Electrical Engineering
 - ⚡ 20 years experience in C/C++
 - ⚡ 15 years experience in Windows Programming since Visual C++ 2006
-- ⚡ 8 years experience in Native Java Android Apps Development
-- ⚡ 3 years experience in iOS .NET MAUI Apps Development
-- ⚡ 6 Experience in projects IoT, ESP,  Arduino, Hardware prototyping, Raspberry Pi : [IoT project](/iotproject)
+- ⚡ 10 years experience in Android : Kotlin and .NET MAUI
+- ⚡ 5 years experience in iOS .NET MAUI Apps Development
+- ⚡ 6 IoT project and Hardware prototyping : [IoT project](/iotproject)
 - ⚡ Integrate Android to embedded system is my daily life
 - 🔭 Web3 implementation : Wallet, Audit
 - 👯 Made a prototype of Hardware Write Blocker (HWB) with quite same performance with Tableau T35U
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ### Implementation Experience 
 
-- [Python in Jetson Nano for Face Recognition] (jetson_nano)
+- [Python in Jetson Nano for Face Recognition](jetson_nano)
+- [Python in Jetson Nano for Face Recognition](jetson_nano)
 - [MaskRCNN for UAV map-building in California](https://github.com/labdevsrc/lane_distance_calc)
 - [Conversion Py2 to Py3](ledbox_phy3)
 - [Python EDA](https://www.kaggle.com/code/azukuchanz/cyber-attack-monthly-weekday-a-year-heatmap)
