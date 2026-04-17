@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 - 🌱 Master degree in Cyber Security and Digital Forensic
 - ⚡ Bachelor in Electrical Engineering
 - ⚡ 20 years experience in C/C++
+- ⚡ 15 years experience in Windows Programming since Visual C++ 2006
 - ⚡ 8 years experience in Native Java Android Apps Development
 - ⚡ 3 years experience in iOS .NET MAUI Apps Development
 - ⚡ 6 Experience in projects IoT, ESP,  Arduino, Hardware prototyping, Raspberry Pi : [IoT project](/iotproject)
 - ⚡ Integrate Android to embedded system is my daily life
-- 🔭 Currently learning on Blockchain Security
-- 👯 Interest in development of Forensic and Security Hardware tools
+- 🔭 Web3 implementation : Wallet, Audit
+- 👯 Made a prototype of Hardware Write Blocker (HWB) with quite same performance with Tableau T35U
   
 ### Language Skill 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
